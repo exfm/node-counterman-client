@@ -9,12 +9,11 @@
     "url": "git://github.com/exfm/node-counterman-client.git"
   },
   "scripts": {
-    "test": "mocha"
   },
-  "dependencies": {},
+  "dependencies": {
+    "superagent": "0.9.7"
+  },
   "devDependencies": {
-    "mocha": "1.4.1",
-    "chai": "1.2.0"
   },
   "optionalDependencies": {},
   "engines": {
