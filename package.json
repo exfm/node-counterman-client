@@ -2,7 +2,7 @@
   "author": "Lucas Hrabovsky <lucas@ex.fm>",
   "name": "node-counterman-client",
   "description": "Simple wrapper to talk to counterman",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "http://github.com/exfm/node-counterman-client",
   "repository": {
     "type": "git",
